@@ -75,7 +75,7 @@ This repository uses separate branches to organize the individual projects:
 | `main` | Portfolio overview |
 | `app-se` | Software Quality Profiler |
 | `mood-analysis` | Predictive Spotify Mood Analytics |
-| `ml-project` | Machine Learning Project |
+| `ml-project` | Stock Portfolio Optimisation |
 
 Each project branch contains its own source code, documentation, and supporting materials.
 
