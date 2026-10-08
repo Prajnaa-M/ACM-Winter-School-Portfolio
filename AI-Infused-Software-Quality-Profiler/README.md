@@ -1,4 +1,4 @@
-\# AI-Infused Software Quality Profiler
+# AI-Infused Software Quality Profiler
 
 
 
@@ -6,7 +6,7 @@ An interactive static code analysis application that evaluates Python source cod
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -18,11 +18,11 @@ The application combines deterministic static analysis with an interactive Strea
 
 
 
-\## Features
+## Features
 
 
 
-\### 📊 Code Metrics
+### 📊 Code Metrics
 
 
 
@@ -30,21 +30,21 @@ The profiler analyzes:
 
 
 
-\- Total lines of code
+- Total lines of code
 
-\- Executable, blank, and documentation lines
+- Executable, blank, and documentation lines
 
-\- Cyclomatic complexity estimate
+- Cyclomatic complexity estimate
 
-\- Comment and documentation density
+- Comment and documentation density
 
-\- Maximum control-flow nesting depth
+- Maximum control-flow nesting depth
 
-\- Decision-keyword frequency
+- Decision-keyword frequency
 
 
 
-\### 🔬 Function-Level Analysis
+### 🔬 Function-Level Analysis
 
 
 
@@ -52,19 +52,19 @@ Individual functions are profiled based on:
 
 
 
-\- Function length
+- Function length
 
-\- Complexity
+- Complexity
 
-\- Nesting depth
+- Nesting depth
 
-\- Documentation presence
+- Documentation presence
 
-\- Risk classification
+- Risk classification
 
 
 
-\### 🛡️ Structural Risk Detection
+### 🛡️ Structural Risk Detection
 
 
 
@@ -72,25 +72,25 @@ The application identifies patterns including:
 
 
 
-\- Deeply nested control blocks
+- Deeply nested control blocks
 
-\- Unguarded I/O operations
+- Unguarded I/O operations
 
-\- Manually managed file resources
+- Manually managed file resources
 
-\- Bare `except:` clauses
+- Bare `except:` clauses
 
-\- Nested or inefficient comprehensions
+- Nested or inefficient comprehensions
 
-\- Repetitive `.append()` patterns
+- Repetitive `.append()` patterns
 
-\- Repeated dictionary lookups
+- Repeated dictionary lookups
 
-\- Missing `\_\_main\_\_` guards
+- Missing `__main__` guards
 
 
 
-\### 📈 Maintainability Index
+### 📈 Maintainability Index
 
 
 
@@ -98,13 +98,13 @@ A maintainability score from 0–100 is calculated using penalties based on:
 
 
 
-\- Complexity
+- Complexity
 
-\- Documentation density
+- Documentation density
 
-\- Nesting depth
+- Nesting depth
 
-\- Error-handling and resource-management risks
+- Error-handling and resource-management risks
 
 
 
@@ -112,7 +112,7 @@ The result is classified into maintainability bands ranging from highly maintain
 
 
 
-\### 🧠 Architectural Review
+### 🧠 Architectural Review
 
 
 
@@ -120,19 +120,19 @@ The application generates a heuristic structural review containing:
 
 
 
-\- Critical structural vulnerabilities
+- Critical structural vulnerabilities
 
-\- Refactoring and maintainability recommendations
+- Refactoring and maintainability recommendations
 
-\- Maintainability scoring breakdown
-
-
-
-The architectural review is explicitly a \*\*heuristic simulation\*\* based on the static-analysis results rather than a call to an external language model.
+- Maintainability scoring breakdown
 
 
 
-\## Methodology
+The architectural review is explicitly a **heuristic simulation** based on the static-analysis results rather than a call to an external language model.
+
+
+
+## Methodology
 
 
 
@@ -152,25 +152,25 @@ The maintainability score is derived from complexity, documentation, nesting, an
 
 
 
-\## Technology Stack
+## Technology Stack
 
 
 
-\- Python
+- Python
 
-\- Pandas
+- Pandas
 
-\- Streamlit
+- Streamlit
 
-\- Regular Expressions
+- Regular Expressions
 
-\- Static Code Analysis
+- Static Code Analysis
 
-\- Heuristic Software Quality Metrics
+- Heuristic Software Quality Metrics
 
 
 
-\## Run Locally
+## Run Locally
 
 
 
@@ -181,4 +181,5 @@ Install the dependencies:
 ```bash
 
 pip install -r requirements.txt
+
 
