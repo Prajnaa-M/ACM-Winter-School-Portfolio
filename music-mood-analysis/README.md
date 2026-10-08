@@ -1,4 +1,4 @@
-\# Predictive Spotify Mood Analytics
+# Predictive Spotify Mood Analytics
 
 
 
@@ -6,7 +6,7 @@ An interactive Streamlit application exploring the relationship between Spotify 
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,11 +14,11 @@ This project models track valence using three audio features:
 
 
 
-\- Tempo
+- Tempo
 
-\- Energy
+- Energy
 
-\- Danceability
+- Danceability
 
 
 
@@ -26,27 +26,27 @@ The application provides an interactive interface for generating valence predict
 
 
 
-\## Features
+## Features
 
 
 
-\- Interactive tempo, energy, and danceability inputs
+- Interactive tempo, energy, and danceability inputs
 
-\- Predicted valence score
+- Predicted valence score
 
-\- Mood classification
+- Mood classification
 
-\- Model coefficient visualization
+- Model coefficient visualization
 
-\- Live feature contribution analysis
+- Live feature contribution analysis
 
-\- Regression diagnostics
+- Regression diagnostics
 
-\- Interactive Plotly visualizations
+- Interactive Plotly visualizations
 
 
 
-\## Model
+## Model
 
 
 
@@ -62,19 +62,19 @@ The model was fitted on 114,000 distinct Spotify tracks.
 
 
 
-\## Model Diagnostics
+## Model Diagnostics
 
 
 
-\- \*\*Multiple R-squared:\*\* 0.2694
+- **Multiple R-squared:** 0.2694
 
-\- \*\*Adjusted R-squared:\*\* 0.2694
+- **Adjusted R-squared:** 0.2694
 
-\- \*\*Residual Standard Error:\*\* 0.2216
+- **Residual Standard Error:** 0.2216
 
-\- \*\*F-statistic:\*\* 1.401e4
+- **F-statistic:** 1.401e4
 
-\- \*\*p-value:\*\* < 2.2e-16
+- **p-value:** < 2.2e-16
 
 
 
@@ -82,23 +82,23 @@ The model leaves substantial unexplained variance, highlighting that emotional p
 
 
 
-\## Technology Stack
+## Technology Stack
 
 
 
-\- Python
+- Python
 
-\- Pandas
+- Pandas
 
-\- Plotly
+- Plotly
 
-\- Streamlit
+- Streamlit
 
-\- Multiple Linear Regression
+- Multiple Linear Regression
 
 
 
-\## Run Locally
+## Run Locally
 
 
 
