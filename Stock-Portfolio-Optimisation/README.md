@@ -1,4 +1,4 @@
-\# Stock Portfolio Optimization
+# Stock Portfolio Optimization
 
 
 
@@ -6,69 +6,69 @@ A quantitative finance project applying mathematical and statistical techniques 
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\- Python
+- Python
 
-\- NumPy
+- NumPy
 
-\- Pandas
+- Pandas
 
-\- Matplotlib
+- Matplotlib
 
-\- Scikit-learn
+- Scikit-learn
 
-\- SciPy
+- SciPy
 
-\- yfinance
+- yfinance
 
-\- Data collection and preprocessing
+- Data collection and preprocessing
 
-\- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-\- Financial return analysis
+- Financial return analysis
 
-\- Log returns and volatility
+- Log returns and volatility
 
-\- Correlation and covariance analysis
+- Correlation and covariance analysis
 
-\- Principal Component Analysis (PCA)
+- Principal Component Analysis (PCA)
 
-\- Eigenvalues and eigenvectors
+- Eigenvalues and eigenvectors
 
-\- Covariance matrix reconstruction
+- Covariance matrix reconstruction
 
-\- Mean-variance portfolio optimization
+- Mean-variance portfolio optimization
 
-\- Lagrangian optimization
+- Lagrangian optimization
 
-\- Efficient frontier construction
+- Efficient frontier construction
 
-\- Minimum-variance portfolio analysis
+- Minimum-variance portfolio analysis
 
-\- Maximum-Sharpe portfolio optimization
+- Maximum-Sharpe portfolio optimization
 
-\- Risk-return analysis
+- Risk-return analysis
 
-\- Statistical modelling
+- Statistical modelling
 
-\- Quantitative finance
+- Quantitative finance
 
-\- Data visualization
-
-
-
-\## Key Concepts
+- Data visualization
 
 
 
-The project combines \*\*linear algebra, statistics, optimization, and financial mathematics\*\* to study portfolio risk, diversification, latent risk factors, and optimal asset allocation.
+## Key Concepts
 
 
 
-\## Authors
+The project combines **linear algebra, statistics, optimization, and financial mathematics** to study portfolio risk, diversification, latent risk factors, and optimal asset allocation.
+
+
+
+## Authors
 
 
 
