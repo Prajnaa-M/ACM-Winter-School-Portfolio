@@ -1,6 +1,7 @@
 # ACM Winter School Portfolio
 
 ### Prajnaa M.
+https://www.linkedin.com/in/prajnaa-m-b205a63a2/
 
 A curated collection of projects developed as part of my technical learning journey, with a focus on software engineering, data analytics, statistical modelling, and machine learning.
 
